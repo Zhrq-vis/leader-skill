@@ -2,7 +2,7 @@
 
 # 领导.skill
 
-> *“这一次，让我们先把领导蒸馏了，别让AI取代苦命打工的我们，答应我，先取代领导。”*
+> *“这一次，让我们先把领导蒸馏了，别让AI取代苦命打工的我们，答应我，先让AI取代领导。”*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
