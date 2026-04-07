@@ -2,6 +2,7 @@
 
 # Leader.skill
 
+> *“This time around, let's start by distilling the bosses. Don't let AI replace us poor, overworked grunts—promise me: let AI replace the bosses first.”*
 > *“Before the real briefing, let the leader review it once.”*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
